@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1412927352 source:c:\users\anirudh\documents\github\school-project\school-project\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+
